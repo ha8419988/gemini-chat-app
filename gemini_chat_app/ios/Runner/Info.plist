@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>このアプリケーションを使用すると、レポート機能用に写真を撮影できます。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>このアプリケーションでは、ライブラリから写真を選択してレポート機能を使用できます。</string>
 </dict>
 </plist>
